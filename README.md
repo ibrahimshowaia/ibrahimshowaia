@@ -1,4 +1,4 @@
-# Ibrahim Alshowaia
+# Ibrahim showaia
 
 Software Engineering graduate focused on backend development, full-stack applications, and practical AI automation.
 
